@@ -1,1 +1,2 @@
 # SAKUMS
+Mans pirmais repository.
